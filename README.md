@@ -1,7 +1,7 @@
 
-## any help then see the link
+## How To Send Mail Using Gmail In Laravel 9 
 
-- [Simple, fast routing engine](https://websolutionstuff.com/post/how-to-send-mail-using-gmail-in-laravel-9).
+- [How To Send Mail Using Gmail In Laravel 9](https://websolutionstuff.com/post/how-to-send-mail-using-gmail-in-laravel-9).
 
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
